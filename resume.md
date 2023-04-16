@@ -5,7 +5,7 @@ subtitle: Full stack developer
 permalink: /resume/
 ---
 
-<span style="float: right; "><a href="{{ '/assets/resume.pdf' | prepend: site.baseurl }}"><strong>> Download as PDF</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/sushantnarvekar.doc' | prepend: site.baseurl }}"><strong>> Download as DOC</strong></a> </span>
 <br>
 
 ### SKILLS
