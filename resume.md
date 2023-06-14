@@ -5,8 +5,13 @@ subtitle: Full stack developer
 permalink: /resume/
 ---
 
-<span style="float: right; "><a href="{{ '/assets/sushantnarvekar.doc' | prepend: site.baseurl }}"><strong>> Download as DOC</strong></a> </span>
+<span style="float: right; "><a href="{{ '/assets/sushantnarvekar.pdf' | prepend: site.baseurl }}"><strong>> Download as DOC</strong></a> </span>
 <br>
+<span style="float: right; "><a href="{{ '/assets/  ielts.png' | prepend: site.baseurl }}"><strong></strong></a> </span>
+<br>
+<span style="float: right; "><a href="{{ '/assets/  PGDAC.pdf' | prepend: site.baseurl }}"><strong></strong></a> </span>
+<br>
+
 
 ### SKILLS
 ``` Proficient in Java, Spring Boot, MySQL, MongoDB, React, JavaScript, and .NET, with experience developing full-stack applications and a strong understanding of object-oriented programming principles.  ```  
